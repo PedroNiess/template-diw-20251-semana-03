@@ -21,5 +21,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<img src="public/paginacriada2.png" alt="1º parte da página criada">
-<img src="public/paginacriada2.1.png" alt="2º parte da página criada">
+<img src="public/paginacriada2.jpg" alt="1º parte da página criada">
+<img src="public/paginacriada2.1.jpg" alt="2º parte da página criada">
