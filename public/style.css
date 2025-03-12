@@ -1,3 +1,98 @@
 body {
-    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: white;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.header h1 {
+    font-size: 30px;
+    color: #c73800
+}
+
+.header h2 {
+    font-size: 16px;
+    color: #c73800
+}
+
+.search-form input, .search-form button {
+    padding: 8px;
+    margin: 5px;
+    border-radius: .7rem;
+}
+
+.navigation {
+    background: #c73800;
+    padding: 10px;
+    text-align: center;
+}
+
+.navigation ul {
+    list-style: none;
+    padding: 0;
+}
+
+.navigation li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.featured {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.recipes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.recipe {
+    color: whit;
+    width: 45%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.footer {
+    background: #333;
+    color: white;.
+    text-align: right;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+}
+
+#pudim{
+    width: 100%;
+    height: auto;
+    border-radius: 17px;
+}
+
+#brig{
+    width: 100%;
+    height: auto;
+    border-radius: 17px;
 }

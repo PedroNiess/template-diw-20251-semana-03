@@ -16,9 +16,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="wireframe.png" alt="esboço criado">
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img src="paginacriada2.png" alt="1º parte da página criada">
+<img src="paginacriada2.1.png" alt="2º parte da página criada">
