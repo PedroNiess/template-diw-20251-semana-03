@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Niess
+- Matricula: 1540911
+- Proposta de projeto escolhida: Diretório de Receitas
+- Breve descrição sobre seu projeto: Este projeto é um site de receitas culinárias organizado por categorias, incluindo entradas, pratos principais e sobremesas. Ele permite que os usuários busquem receitas pelo nome ou ingredientes, favoritem suas favoritas e visualizem detalhes completos de cada prato. O design é inspirado em uma estética moderna e intuitiva, garantindo uma navegação agradável e eficiente.
 
 
 ## Print do esboço criada
